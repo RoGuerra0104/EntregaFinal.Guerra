@@ -1,137 +1,137 @@
 [
     {
     "id": 1,
-    "img": "../img/fernet-branca.jpg",
+    "img": "./img/fernet-branca.jpg",
     "bebidas": "Fernet",
     "precio": 2800,
     "cantidad": 1
 },
 {
     "id": 2,
-    "img": "../img/aperol.png",
+    "img": "./img/aperol.png",
     "bebidas": "Aperol",
     "precio": 2100,
     "cantidad": 1
 },
 {
     "id": 3,
-    "img": "../img/Smirnoff.png",
+    "img": "./img/Smirnoff.png",
     "bebidas": "Smirnoff",
     "precio": 2500,
     "cantidad": 1
 },
 {
     "id": 4,
-    "img": "../img/gancia.png",
+    "img": "./img/gancia.png",
     "bebidas": "Gancia",
     "precio": 2000,
     "cantidad": 1
 },
 {
     "id": 5,
-    "img": "../img/Gordons.png",
+    "img": "./img/Gordons.png",
     "bebidas": "Gordon´s",
     "precio": 3600,
     "cantidad": 1
 },
 {
     "id": 6,
-    "img": "../img/Havana.png",
+    "img": "./img/Havana.png",
     "bebidas": "Havana Club",
     "precio": 4500,
     "cantidad": 1
 },
 {
     "id": 7,
-    "img": "../img/JohnnieWalkerBlue.png",
+    "img": "./img/JohnnieWalkerBlue.png",
     "bebidas": "Johnnie Walker Blue",
     "precio": 99000,
     "cantidad": 1
 },
 {
     "id": 8,
-    "img": "../img/JohnnieWalkerRed.png",
+    "img": "./img/JohnnieWalkerRed.png",
     "bebidas": "Johnnie Walker Red",
     "precio": 8500,
     "cantidad": 1
 },
 {
     "id": 9,
-    "img": "../img/DrLemon.png",
+    "img": "./img/DrLemon.png",
     "bebidas": "Dr.Lemon",
     "precio": 900,
     "cantidad": 1
 },{
     "id": 10,
-    "img": "../img/AbsolutRaspberri.png",
+    "img": "./img/AbsolutRaspberri.png",
     "bebidas": "Absolut Raspberri",
     "precio": 7600,
     "cantidad": 1
 },{
     "id": 11,
-    "img": "../img/Legui.png",
+    "img": "./img/Legui.png",
     "bebidas": "Legui",
     "precio": 1250,
     "cantidad": 1
 },{
     "id": 12,
-    "img": "../img/Campari.png",
+    "img": "./img/Campari.png",
     "bebidas": "Campari",
     "precio": 2790,
     "cantidad": 1
 },
 {
     "id": 13,
-    "img": "../img/MartiniRosso.png",
+    "img": "./img/MartiniRosso.png",
     "bebidas": "Martini Rosso",
     "precio": 1550,
     "cantidad": 1
 },
 {
     "id": 14,
-    "img": "../img/JohnnieWalkerDoubleBlack.png",
+    "img": "./img/JohnnieWalkerDoubleBlack.png",
     "bebidas": "Johnnie Walker Double Black",
     "precio": 14690,
     "cantidad": 1
 },
 {
     "id": 15,
-    "img": "../img/BulldogGin.png",
+    "img": "./img/BulldogGin.png",
     "bebidas": "Bulldog Gin",
     "precio": 9950,
     "cantidad": 1
 },
 {
     "id": 16,
-    "img": "../img/JackDaniels.png",
+    "img": "./img/JackDaniels.png",
     "bebidas": "Jack Daniels",
     "precio": 15900,
     "cantidad": 1
 },
 {
     "id": 17,
-    "img": "../img/SkyyVodka.png",
+    "img": "./img/SkyyVodka.png",
     "bebidas": "Skyy Vodka",
     "precio": 2300,
     "cantidad": 1
 },
 {
     "id": 18,
-    "img": "../img/WhiteHorse.png",
+    "img": "./img/WhiteHorse.png",
     "bebidas": "White Horse",
     "precio": 3390,
     "cantidad": 1
 },
 {
     "id": 19,
-    "img": "../img/Jagermesiter.png",
+    "img": "./img/Jagermesiter.png",
     "bebidas": "Jagermesiter",
     "precio": 9500,
     "cantidad": 1
 },
 {
     "id": 20,
-    "img": "../img/Malibu.png",
+    "img": "./img/Malibu.png",
     "bebidas": "Malibu",
     "precio": 4790,
     "cantidad": 1
