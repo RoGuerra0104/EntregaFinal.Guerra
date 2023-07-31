@@ -1,0 +1,253 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+header,
+footer,
+h1,
+.parrafoFooter {
+    background-color: #2b2d42;
+    color: #8d99ae;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-bebidas{
+    color: #f1faee;
+}
+.nav-bebidas:hover{
+    color: #2b2d42;
+    border: solid 1px #f1faee;
+    background-color: #f1faee;
+}
+
+.navbar {
+    background-color: #2b2d42;
+}
+
+.nav-item {
+    margin: auto 20px;
+}
+
+body {
+    background-color: #780000;
+}
+
+.imgLogo {
+    height: 150px;
+    width: 150px;
+}
+
+dt {
+    text-align: center;
+    font-size: 30px;
+}
+
+dd {
+    text-align: center;
+    font-size: 25px;
+    margin: 5px 60px;
+}
+
+
+.inicioCompra {
+    background-color: #2b2d42;
+    /* border: solid 1px #2b2d42; */
+    border-radius: 5px;
+    margin-top: 2px;
+    padding: 2px;
+}
+.inicioCompra:hover{
+    background-color: #f1faee;
+}
+
+.aCompras {
+    color: #f1faee;
+}
+
+.aCompras:hover {
+    color: #2b2d42;
+}
+
+#btn-compra{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    margin: 2px auto;
+    
+}
+
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#carrito {
+    background-color: #780000;
+}
+
+.carritoProducto {
+    background-color: #780000;
+}
+
+h2 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.row gy-5 {
+    height: 100px;
+    width: 100px;
+}
+
+.listadoCompra {
+    font-size: 45px;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    align-items: center;
+    display: inline;
+}
+
+button {
+
+    border: none;
+    margin: 0;
+    background-color: none;
+}
+
+
+
+.tipoBebidas {
+    margin: 15px;
+    border: solid 2px #2b2d42;
+    transform: matrix3d(5);
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.tipoBebidas:hover {
+    background-color: #f1faee;
+
+    .btnAniadirProd {
+        background-color: #f1faee;
+    }
+}
+
+.nombreProd {
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+
+}
+
+.precio {
+    text-align: center;
+}
+
+.btnAniadirProd {
+    background-color: #780000;
+    text-align: center;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.precio {
+    color: #2b2d42;
+    font-size: 22px;
+}
+
+
+
+.bebidas {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.h3 {
+    text-align: center;
+    margin: auto;
+}
+
+.carrito {
+    text-align: center;
+}
+
+.carritoProducto {
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 30px auto;
+}
+
+.cantidad {
+    font-size: 30px;
+}
+
+.total {
+    font-size: 30px;
+}
+
+.resta {
+    margin: 0px 15px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.suma {
+    margin: 0px 15px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+button.boton {
+    margin: 0px 15px;
+    background-color: #780000;
+}
+
+#carrito {
+    margin: 15px 15px;
+}
+
+#ver-carrito {
+    font-size: 60px;
+    background-color: #2b2d42;
+}
+
+.carrito {
+    font-size: 40px;
+}
+
+.h2Carrito {
+    margin-top: 60px;
+}
+
+.CarritoBoton {
+    margin-left: 40px;
+}
+
+.pagarTotal {
+    margin: 15px auto;
+    padding: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    background-color: #2b2d42;
+    color: #fff;
+}
