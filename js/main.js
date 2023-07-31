@@ -12,7 +12,7 @@ const divCarrito = document.getElementById("carrito");
 let carrito1 = JSON.parse(localStorage.getItem("carrito")) || [];
 
 const getProductos = async()=> {
-    const respuesta = await fetch("../bebidas.json");
+    const respuesta = await fetch("bebidas.json");
     const datos = await respuesta.json();
     tipoBebidas.innerHTML=""
 // Recorremos las bebidas con un forEach y generamos su contenido en el DOM
