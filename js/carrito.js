@@ -98,7 +98,7 @@ const pintarCarrito = () => {
     if (divCarrito != "") {
         const totalCompra = document.createElement("div");
         totalCompra.className = "carrito";
-        totalCompra.innerHTML = `<p>total a pagar: $${total}</p>`;
+        totalCompra.innerHTML = `<p>Total a pagar: $${total}</p>`;
         divCarrito.append(totalCompra);
     }
 
